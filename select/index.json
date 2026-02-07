@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "台風の子",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-07T06:59:53.898418Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "台風の子",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_台風の子_春猿火.txt"
+    }
+  ]
+}
